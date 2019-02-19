@@ -1,0 +1,9 @@
+
+*.prefs
+*.db
+*.metadata
+*.ini
+*.contribution
+*.tooling-apps-cache
+*.tooling
+*.mule
